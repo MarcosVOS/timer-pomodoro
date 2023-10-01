@@ -1,6 +1,6 @@
 # TimerPomodoro
 
-### 🇺🇸 PProject Developed for study at RocketSeat
+### 🇺🇸 Project Developed for study at RocketSeat
 
 #### The project consists of a pomodoro application in which the user registers an activity they are going to carry out, defining the name and duration of the task and with a history page to see which tasks have been completed, closed and completed and if there are any in progress
 
